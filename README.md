@@ -17,7 +17,7 @@
   <img alt="layout-player-youtube" src=".github/desktop.png" width="100%">
   
 <h1>Mobile:</h1>
-<img alt="layout-player-youtube" src=".github/mobile.png" width="40%">
+<img alt="layout-player-youtube" src=".github/mobile.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,8 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi criado para fixar meus estudos sobre CSS GRID. Antes, tive a ideia de contruir um feed de fotos do instagram, porém depois analisar como
-poderia fixar meu conhecimento tive a ideia de tentar reecriar a layout do player do youtube.
+O projeto foi desenvolvido atraves do desafio proposto no site do <a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0">Frontend Mentor</a> que teve como objetivo construir uma landing page atraves do design pronto oferecido pelo site.
+Com o desenvolvimento do projeto puder colocar em pratica meus conhecimentoa em HTML e CSS além de poder treinar questões como a responsividade adaptando o
+site a tamanhos de telas de dispositivos como tablets e celulares.
 
 
 ## :memo: Licença
