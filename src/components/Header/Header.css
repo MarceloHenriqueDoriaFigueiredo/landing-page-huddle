@@ -1,0 +1,8 @@
+.cabecalho > nav > ul > li{
+    margin: 30px;
+    list-style: none;
+}
+
+.cabecalho > nav > ul > li > img{
+    width: 16%;
+}
