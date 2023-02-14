@@ -1,7 +1,7 @@
 import Illustration from '../img/illustration-mockups.svg'
 import './Main.css'
 
-function Main(){
+ export function Main(){
     return(
         <div>
             <section class="info">
@@ -20,5 +20,3 @@ function Main(){
         </div>
     )
 }
-
-export default Main

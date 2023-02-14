@@ -1,7 +1,7 @@
 import Logo from '../img/logo.svg'
 import './Header.css'
 
-function Header(){
+export function Header(){
     return(
         <>
             <header className="cabecalho">
@@ -16,5 +16,3 @@ function Header(){
         </>
     )
 }
-
-export default Header
