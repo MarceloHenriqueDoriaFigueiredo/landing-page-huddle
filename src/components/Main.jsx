@@ -1,4 +1,4 @@
-import Illustration from '../img/illustration-mockups.svg'
+import Illustration from '../assets/img/illustration-mockups.svg'
 import './Main.css'
 
  export function Main(){

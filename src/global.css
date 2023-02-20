@@ -10,7 +10,7 @@ html *{
 }
 
 body{
-    background: url('components/img/bg-desktop.svg') no-repeat;
+    background: url('assets/img/bg-desktop.svg') no-repeat;
     background-size: 95%;
     background-color: hsl(257, 40%, 49%);
 }
@@ -19,7 +19,7 @@ body{
 
 @media (max-width: 900px) {
     body{
-        background: url('components/img/bg-mobile.svg');
+        background: url('assets/img/bg-mobile.svg');
         background-color: hsl(257, 40%, 49%);
         background-position: top center;
         background-repeat: no-repeat;
@@ -74,7 +74,7 @@ body{
 
 @media (max-width: 390px) {
     body{
-        background: url('components/img/bg-mobile.svg');
+        background: url('assets/img/bg-mobile.svg');
         background-color: hsl(257, 40%, 49%);
         background-position: top center;
         background-repeat: no-repeat;
